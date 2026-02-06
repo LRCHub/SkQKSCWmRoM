@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "僕らだけの未来の空",
+  "base_artist": "ノクチル",
+  "createdAt": "2026-02-06T16:54:06.758350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らだけの未来の空",
+      "artist": "ノクチル",
+      "has_synced": true,
+      "path": "select/01_僕らだけの未来の空_ノクチル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕らだけの未来の空 (Off Vocal)",
+      "artist": "ノクチル (和久井優, 土屋李央, 田嶌紗蘭, 岡咲美保)",
+      "has_synced": true,
+      "path": "select/02_僕らだけの未来の空_(Off_Vocal)_ノクチル_(和久井優,_土屋李央,_田嶌紗蘭,_岡咲美保).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕らだけの未来の空",
+      "artist": "ノクチル (和久井優, 土屋李央, 田嶌紗蘭, 岡咲美保)",
+      "has_synced": true,
+      "path": "select/03_僕らだけの未来の空_ノクチル_(和久井優,_土屋李央,_田嶌紗蘭,_岡咲美保).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らだけの未来の空",
+      "artist": "ノクチル",
+      "has_synced": false,
+      "path": "select/pl_01_僕らだけの未来の空_ノクチル.txt"
+    }
+  ]
+}
